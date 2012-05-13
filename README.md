@@ -1,7 +1,7 @@
 VKSiS_Tests_2012_20questions
 gr. 800502
 Anacki Alexey
-probno2010@mail.ru
+probni2010@mail.ru
 ================================
 
 
